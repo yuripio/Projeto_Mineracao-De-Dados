@@ -1,9 +1,13 @@
 # 📘 README - Análise Preditiva de Tipos de Acidentes Utilizando Random Forest
 
 Jhully Vitória Nunes Leite
+
 João Vitor Gonçalves
+
 Lucas Daniel da Cunha Moura
+
 Victor Hugo Nunes
+
 Yuri Pio
 
 ## ✅ Requisitos para a execução em Linux
